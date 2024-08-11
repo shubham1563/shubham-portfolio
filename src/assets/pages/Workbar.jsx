@@ -4,12 +4,12 @@ const WorkBar = () => {
   const [hovered, setHovered] = useState(null);
 
   const images = [
-    { src: "../public/img/cpp.png", alt: "C++" },
-    { src: "../public/img/PHP.png", alt: "PHP" },
-    { src: "../public/img/java.png", alt: "Java" },
-    { src: "../public/img/tail.png", alt: "Tailwind CSS" },
-    { src: "../public/img/file.png", alt: "File" },
-    // Add more images as needed
+    { src: "img/cpp.png", alt: "C++" },
+    { src: "img/php.png", alt: "PHP" },
+    { src: "img/java.png", alt: "Java" },
+    { src: "img/tail.png", alt: "Tailwind CSS" },
+    { src: "img/file.png", alt: "File" },
+    
   ];
 
   const handleMouseEnter = (index) => {

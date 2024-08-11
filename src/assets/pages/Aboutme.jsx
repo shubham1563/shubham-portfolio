@@ -8,7 +8,7 @@ const Aboutme = () => {
         <div className="md:grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="md:mx-20 ml-3">
             {/* Image */}
-            <img src="../public/img/shubham.img.jpg" className="rounded-lg  h-96 w-auto" alt="Skills" />
+            <img src="img/shubham.img.jpg" className="rounded-lg  h-96 w-auto" alt="Skills" />
 
             {/* Introduction */}
             {/* <h2 className="text-center md:text-left text-2xl md:text-4xl font-semibold text-white mb-6">

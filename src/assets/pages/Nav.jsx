@@ -42,7 +42,7 @@ const Nav = () => {
             </button>
           </div>
           <div className="text-2xl font-bold text-white">
-            <img src="../public/img/logo.png" className="h-14 w-auto" alt="Logo" />
+            <img src="img/logo.png" className="h-14 w-auto" alt="Logo" />
           </div>
         </div>
         <div

@@ -65,7 +65,7 @@ const Hero = () => {
         </div>
 
         <div className="md:ml-60 hidden md:block md:w-72">
-          <img src="../public/img/pic.png" className='rounded-lg  h-96 w-auto' alt="Profile" ref={imgRef} />
+          <img src="img/pic.png" className='rounded-lg  h-96 w-auto' alt="Profile" ref={imgRef} />
         </div>
       </div>
       <hr className='md:mt-25' />
