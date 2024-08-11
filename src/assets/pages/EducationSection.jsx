@@ -5,7 +5,7 @@ const EducationSection = () => {
   const educationData = [
     {
       institution: "Punyashlok Ahilyadevi Holkar Solapur University",
-      degree: "Bachelor of Science in Computer Science",
+      degree: "Bachelor of Computer Science [ECS]",
       startDate: "September 2021",
       endDate: "June 2023",
       description: "Focused on software development, data structures, and algorithms. Participated in various hackathons and coding competitions.",

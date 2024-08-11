@@ -11,7 +11,7 @@ const SkillsSection = () => {
               A Creative Front-end Developer and Skilled Back-end Developer, Overall a Complete Full Stack Web Developer
             </h2>
             <p className="text-yellow-300 text-sm mb-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur molestiae magni eveniet ratione? Voluptatibus quaerat nam dolorem nulla doloribus voluptate laudantium eum suscipit?
+            "Proficient in modern web technologies including HTML5, CSS3, and JavaScript (ES6+), with extensive experience in building responsive and interactive user interfaces using React.js. Skilled in integrating RESTful APIs and optimizing performance for cross-browser compatibility. Passionate about delivering accessible and user-friendly web applications, adhering to best practices in UI/UX design."
             </p>
             {/* Uncomment to add a download button for CV */}
             {/* <a href="Shubham-Resume.pdf" className="p-3 bg-blue-500 text-white rounded-md mt-5">
