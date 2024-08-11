@@ -13,8 +13,8 @@ const EducationSection = () => {
     {
       institution: "Vivek Vardhini Vidhyalaya & Junior College",
       degree: "HSC [SCIENCE]",
-      startDate: "September 2011",
-      endDate: "June 2015",
+      startDate: "September 2018",
+      endDate: "June 2020",
       description: "Excelled in mathematics and computer science. Member of the school's programming club.",
     },
   ];
