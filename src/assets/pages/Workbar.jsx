@@ -5,7 +5,8 @@ const WorkBar = () => {
 
   const images = [
     { src: "img/cpp.png", alt: "C++" },
-    { src: "img/php.png", alt: "PHP" },
+    // { src: "img/php.png", alt: "PHP" },
+    { src: "img/html5.png", alt: "html" },
     { src: "img/java.png", alt: "Java" },
     { src: "img/tail.png", alt: "Tailwind CSS" },
     { src: "img/file.png", alt: "File" },

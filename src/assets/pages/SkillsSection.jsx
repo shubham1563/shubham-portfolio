@@ -21,9 +21,9 @@ const SkillsSection = () => {
           <div className="text-white mt-10 md:mt-0 space-y-3">
             <SkillProgress label="HTML / CSS" value={70} />
             <SkillProgress label="C++" value={60} />
+            <SkillProgress label="Tailwind CSS" value={70} />
             <SkillProgress label="JavaScript" value={50} />
             <SkillProgress label="React" value={50} />
-            <SkillProgress label="PHP" value={50} />
           </div>
         </div>
       </div>

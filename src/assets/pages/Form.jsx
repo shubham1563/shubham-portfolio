@@ -63,7 +63,7 @@ const Form = () => {
                 setSubmissionStatus('Form submission failed!');
             }
         } catch (error) {
-            setSubmissionStatus(`Error: ${error.message}`);
+            // setSubmissionStatus(`Error: ${error.message}`);
         }
     };
 
