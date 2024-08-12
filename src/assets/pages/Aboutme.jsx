@@ -41,7 +41,7 @@ const Aboutme = () => {
               </div>
               <div className="flex justify-start mt-4">
                 <a
-                  href="../public/img/Shubham CV.pdf"
+                  href="img/Shubham-CV.pdf"
                   className="p-2 bg-blue-500 rounded-lg mx-4 md:mx-10 text-white"
                   download="Shubham-CV"
                 >

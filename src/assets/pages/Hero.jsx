@@ -41,7 +41,7 @@ const Hero = () => {
               Chat With Me
             </a>
             <a
-              href="../public/img/Shubham CV.pdf"
+              href="img/Shubham-CV.pdf"
               download="Shubham-CV"
               className="md:p-3 p-2 w-20border border-dark-400 bg-green-400 rounded-lg text-dark ml-3"
             >
